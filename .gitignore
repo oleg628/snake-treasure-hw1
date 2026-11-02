@@ -1,0 +1,10 @@
+build/
+docs/html/
+docs/latex/
+.cache/
+.vscode/
+compile_commands.json
+*.o
+*.obj
+*.exe
+*.out
